@@ -1,0 +1,15 @@
+Status	./results/aligned/hisat2_PE/SRR15024168.fs.bam	./results/aligned/hisat2_PE/SRR15024173.fs.bam	./results/aligned/hisat2_PE/SRR15024174.fs.bam	./results/aligned/hisat2_PE/SRR15024175.fs.bam	./results/aligned/hisat2_PE/SRR15024177.fs.bam	./results/aligned/hisat2_PE/SRR15024178.fs.bam	./results/aligned/hisat2_PE/SRR15024182.fs.bam	./results/aligned/hisat2_PE/SRR15024183.fs.bam	./results/aligned/hisat2_PE/SRR15024186.fs.bam	./results/aligned/hisat2_PE/SRR15024188.fs.bam
+Assigned	9191933	7625730	8592945	8169944	7935735	6646619	9690621	7308585	8208446	6791696
+Unassigned_Unmapped	0	0	0	0	0	0	0	0	0	0
+Unassigned_Read_Type	0	0	0	0	0	0	0	0	0	0
+Unassigned_Singleton	1752609	1563076	1684184	1641869	1580530	1363181	1701742	1261154	1393278	1313661
+Unassigned_MappingQuality	0	0	0	0	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	0	0	0	0	0	0	0	0	0	0
+Unassigned_Secondary	0	0	0	0	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	14667895	11587718	12626789	13869452	12494379	10770064	14256974	10984522	12520750	11149184
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	120682	93685	116086	110680	104655	96656	126608	90200	103809	94310

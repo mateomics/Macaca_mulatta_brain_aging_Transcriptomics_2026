@@ -1,0 +1,149 @@
+Starting job on chaac.lcg.unam.mx
+FeatureCounts
+Starting job on chaac.lcg.unam.mx
+FeatureCounts
+Starting job on chaac.lcg.unam.mx
+FeatureCounts
+Starting job on chaac.lcg.unam.mx
+FeatureCounts
+	Mode: PE
+	Strand type: 0
+	Path: ./results/aligned/star_PE
+Date: Thu May 28 05:07:53 PM CST 2026
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+	  v2.0.8
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 10 BAM files                                     ||
+||                                                                            ||
+||                           SRR15024168_Aligned.sortedByCoord.out.fs.bam     ||
+||                           SRR15024173_Aligned.sortedByCoord.out.fs.bam     ||
+||                           SRR15024174_Aligned.sortedByCoord.out.fs.bam     ||
+||                           SRR15024175_Aligned.sortedByCoord.out.fs.bam     ||
+||                           SRR15024177_Aligned.sortedByCoord.out.fs.bam     ||
+||                           SRR15024178_Aligned.sortedByCoord.out.fs.bam     ||
+||                           SRR15024182_Aligned.sortedByCoord.out.fs.bam     ||
+||                           SRR15024183_Aligned.sortedByCoord.out.fs.bam     ||
+||                           SRR15024186_Aligned.sortedByCoord.out.fs.bam     ||
+||                           SRR15024188_Aligned.sortedByCoord.out.fs.bam     ||
+||                                                                            ||
+||             Output file : counts_per_gene_0.txt                            ||
+||                 Summary : counts_per_gene_0.txt.summary                    ||
+||              Paired-end : yes                                              ||
+||        Count read pairs : yes                                              ||
+||              Annotation : Macaca_mulatta.Mmul_10.115.gtf (GTF)             ||
+||      Dir for temp files : ./results/aligned/star_PE                        ||
+||                                                                            ||
+||                 Threads : 8                                                ||
+||                   Level : meta-feature level                               ||
+||      Multimapping reads : not counted                                      ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+\\============================================================================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file Macaca_mulatta.Mmul_10.115.gtf ...                    ||
+||    Features : 605501                                                       ||
+||    Meta-features : 35432                                                   ||
+||    Chromosomes/contigs : 329                                               ||
+||                                                                            ||
+|| Process BAM file SRR15024168_Aligned.sortedByCoord.out.fs.bam...           ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 24715006                                             ||
+||    Successfully assigned alignments : 17552735 (71.0%)                     ||
+||    Running time : 0.27 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR15024173_Aligned.sortedByCoord.out.fs.bam...           ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 20032575                                             ||
+||    Successfully assigned alignments : 14668761 (73.2%)                     ||
+||    Running time : 0.20 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR15024174_Aligned.sortedByCoord.out.fs.bam...           ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 22052236                                             ||
+||    Successfully assigned alignments : 16440025 (74.6%)                     ||
+||    Running time : 0.63 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR15024175_Aligned.sortedByCoord.out.fs.bam...           ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 22743667                                             ||
+||    Successfully assigned alignments : 15506256 (68.2%)                     ||
+||    Running time : 0.53 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR15024177_Aligned.sortedByCoord.out.fs.bam...           ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 21224045                                             ||
+||    Successfully assigned alignments : 15137801 (71.3%)                     ||
+||    Running time : 0.21 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR15024178_Aligned.sortedByCoord.out.fs.bam...           ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 18055793                                             ||
+||    Successfully assigned alignments : 12611505 (69.8%)                     ||
+||    Running time : 0.18 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR15024182_Aligned.sortedByCoord.out.fs.bam...           ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 24813234                                             ||
+||    Successfully assigned alignments : 18510007 (74.6%)                     ||
+||    Running time : 0.24 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR15024183_Aligned.sortedByCoord.out.fs.bam...           ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 18872149                                             ||
+||    Successfully assigned alignments : 13924116 (73.8%)                     ||
+||    Running time : 0.19 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR15024186_Aligned.sortedByCoord.out.fs.bam...           ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 21481015                                             ||
+||    Successfully assigned alignments : 15621193 (72.7%)                     ||
+||    Running time : 0.28 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR15024188_Aligned.sortedByCoord.out.fs.bam...           ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 18530534                                             ||
+||    Successfully assigned alignments : 12873301 (69.5%)                     ||
+||    Running time : 0.25 minutes                                             ||
+||                                                                            ||
+|| Write the final count table.                                               ||
+|| Write the read assignment summary.                                         ||
+||                                                                            ||
+|| Summary of counting results can be found in file "./results/aligned/star_  ||
+|| PE/counts_per_gene_0.txt.summary"                                          ||
+||                                                                            ||
+\\============================================================================//
+
+	Command being timed: "featureCounts -o ./results/aligned/star_PE/counts_per_gene_0.txt -T 8 -a ./data/references/Macaca_mulatta.Mmul_10.115.gtf --largestOverlap -p -B -s 0 --countReadPairs ./results/aligned/star_PE/SRR15024168_Aligned.sortedByCoord.out.fs.bam ./results/aligned/star_PE/SRR15024173_Aligned.sortedByCoord.out.fs.bam ./results/aligned/star_PE/SRR15024174_Aligned.sortedByCoord.out.fs.bam ./results/aligned/star_PE/SRR15024175_Aligned.sortedByCoord.out.fs.bam ./results/aligned/star_PE/SRR15024177_Aligned.sortedByCoord.out.fs.bam ./results/aligned/star_PE/SRR15024178_Aligned.sortedByCoord.out.fs.bam ./results/aligned/star_PE/SRR15024182_Aligned.sortedByCoord.out.fs.bam ./results/aligned/star_PE/SRR15024183_Aligned.sortedByCoord.out.fs.bam ./results/aligned/star_PE/SRR15024186_Aligned.sortedByCoord.out.fs.bam ./results/aligned/star_PE/SRR15024188_Aligned.sortedByCoord.out.fs.bam"
+	User time (seconds): 946.08
+	System time (seconds): 9.09
+	Percent of CPU this job got: 520%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:03.62
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 493864
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 512852
+	Voluntary context switches: 1370
+	Involuntary context switches: 27031
+	Swaps: 0
+	File system inputs: 358600
+	File system outputs: 1324720
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

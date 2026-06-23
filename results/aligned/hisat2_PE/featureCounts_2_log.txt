@@ -1,0 +1,159 @@
+Starting job on chaac.lcg.unam.mx
+FeatureCounts
+Starting job on chaac.lcg.unam.mx
+FeatureCounts
+Starting job on chaac.lcg.unam.mx
+FeatureCounts
+Starting job on chaac.lcg.unam.mx
+FeatureCounts
+	Mode: PE
+	Strand type: 2
+	Path: ./results/aligned/hisat2_PE
+Date: Thu May 28 05:07:53 PM CST 2026
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+	  v2.0.8
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 10 BAM files                                     ||
+||                                                                            ||
+||                           SRR15024168.fs.bam                               ||
+||                           SRR15024173.fs.bam                               ||
+||                           SRR15024174.fs.bam                               ||
+||                           SRR15024175.fs.bam                               ||
+||                           SRR15024177.fs.bam                               ||
+||                           SRR15024178.fs.bam                               ||
+||                           SRR15024182.fs.bam                               ||
+||                           SRR15024183.fs.bam                               ||
+||                           SRR15024186.fs.bam                               ||
+||                           SRR15024188.fs.bam                               ||
+||                                                                            ||
+||             Output file : counts_per_gene_2.txt                            ||
+||                 Summary : counts_per_gene_2.txt.summary                    ||
+||              Paired-end : yes                                              ||
+||        Count read pairs : yes                                              ||
+||              Annotation : Macaca_mulatta.Mmul_10.115.gtf (GTF)             ||
+||      Dir for temp files : ./results/aligned/hisat2_PE                      ||
+||                                                                            ||
+||                 Threads : 8                                                ||
+||                   Level : meta-feature level                               ||
+||      Multimapping reads : not counted                                      ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+\\============================================================================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file Macaca_mulatta.Mmul_10.115.gtf ...                    ||
+||    Features : 605501                                                       ||
+||    Meta-features : 35432                                                   ||
+||    Chromosomes/contigs : 329                                               ||
+||                                                                            ||
+|| Process BAM file SRR15024168.fs.bam...                                     ||
+||    Strand specific : reversely stranded                                    ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 25733119                                             ||
+||    Successfully assigned alignments : 9031963 (35.1%)                      ||
+||    Running time : 0.39 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR15024173.fs.bam...                                     ||
+||    Strand specific : reversely stranded                                    ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 20870209                                             ||
+||    Successfully assigned alignments : 7511248 (36.0%)                      ||
+||    Running time : 0.74 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR15024174.fs.bam...                                     ||
+||    Strand specific : reversely stranded                                    ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 23020004                                             ||
+||    Successfully assigned alignments : 8435490 (36.6%)                      ||
+||    Running time : 0.66 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR15024175.fs.bam...                                     ||
+||    Strand specific : reversely stranded                                    ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 23791945                                             ||
+||    Successfully assigned alignments : 8050082 (33.8%)                      ||
+||    Running time : 0.39 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR15024177.fs.bam...                                     ||
+||    Strand specific : reversely stranded                                    ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 22115299                                             ||
+||    Successfully assigned alignments : 7800621 (35.3%)                      ||
+||    Running time : 0.31 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR15024178.fs.bam...                                     ||
+||    Strand specific : reversely stranded                                    ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 18876520                                             ||
+||    Successfully assigned alignments : 6538239 (34.6%)                      ||
+||    Running time : 0.45 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR15024182.fs.bam...                                     ||
+||    Strand specific : reversely stranded                                    ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 25775945                                             ||
+||    Successfully assigned alignments : 9525993 (37.0%)                      ||
+||    Running time : 0.50 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR15024183.fs.bam...                                     ||
+||    Strand specific : reversely stranded                                    ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 19644461                                             ||
+||    Successfully assigned alignments : 7198856 (36.6%)                      ||
+||    Running time : 0.44 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR15024186.fs.bam...                                     ||
+||    Strand specific : reversely stranded                                    ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 22226283                                             ||
+||    Successfully assigned alignments : 8085378 (36.4%)                      ||
+||    Running time : 0.27 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR15024188.fs.bam...                                     ||
+||    Strand specific : reversely stranded                                    ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 19348851                                             ||
+||    Successfully assigned alignments : 6708309 (34.7%)                      ||
+||    Running time : 0.40 minutes                                             ||
+||                                                                            ||
+|| Write the final count table.                                               ||
+|| Write the read assignment summary.                                         ||
+||                                                                            ||
+|| Summary of counting results can be found in file "./results/aligned/hisat  ||
+|| 2_PE/counts_per_gene_2.txt.summary"                                        ||
+||                                                                            ||
+\\============================================================================//
+
+	Command being timed: "featureCounts -o ./results/aligned/hisat2_PE/counts_per_gene_2.txt -T 8 -a ./data/references/Macaca_mulatta.Mmul_10.115.gtf --largestOverlap -p -B -s 2 --countReadPairs ./results/aligned/hisat2_PE/SRR15024168.fs.bam ./results/aligned/hisat2_PE/SRR15024173.fs.bam ./results/aligned/hisat2_PE/SRR15024174.fs.bam ./results/aligned/hisat2_PE/SRR15024175.fs.bam ./results/aligned/hisat2_PE/SRR15024177.fs.bam ./results/aligned/hisat2_PE/SRR15024178.fs.bam ./results/aligned/hisat2_PE/SRR15024182.fs.bam ./results/aligned/hisat2_PE/SRR15024183.fs.bam ./results/aligned/hisat2_PE/SRR15024186.fs.bam ./results/aligned/hisat2_PE/SRR15024188.fs.bam"
+	User time (seconds): 1039.63
+	System time (seconds): 73.99
+	Percent of CPU this job got: 402%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:36.95
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 628532
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1225832
+	Voluntary context switches: 4067
+	Involuntary context switches: 33744
+	Swaps: 0
+	File system inputs: 3163112
+	File system outputs: 23858456
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

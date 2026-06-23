@@ -1,0 +1,15 @@
+Status	./results/aligned/star_PE/SRR15024168_Aligned.sortedByCoord.out.fs.bam	./results/aligned/star_PE/SRR15024173_Aligned.sortedByCoord.out.fs.bam	./results/aligned/star_PE/SRR15024174_Aligned.sortedByCoord.out.fs.bam	./results/aligned/star_PE/SRR15024175_Aligned.sortedByCoord.out.fs.bam	./results/aligned/star_PE/SRR15024177_Aligned.sortedByCoord.out.fs.bam	./results/aligned/star_PE/SRR15024178_Aligned.sortedByCoord.out.fs.bam	./results/aligned/star_PE/SRR15024182_Aligned.sortedByCoord.out.fs.bam	./results/aligned/star_PE/SRR15024183_Aligned.sortedByCoord.out.fs.bam	./results/aligned/star_PE/SRR15024186_Aligned.sortedByCoord.out.fs.bam	./results/aligned/star_PE/SRR15024188_Aligned.sortedByCoord.out.fs.bam
+Assigned	17552735	14668761	16440025	15506256	15137801	12611505	18510007	13924116	15621193	12873301
+Unassigned_Unmapped	0	0	0	0	0	0	0	0	0	0
+Unassigned_Read_Type	0	0	0	0	0	0	0	0	0	0
+Unassigned_Singleton	4643	3799	5075	6291	6337	5888	6676	4812	4575	4424
+Unassigned_MappingQuality	0	0	0	0	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	0	0	0	0	0	0	0	0	0	0
+Unassigned_Secondary	0	0	0	0	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	6694766	4983444	5178746	6804198	5661015	5045130	5811429	4603902	5437011	5282049
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	462862	376571	428390	426922	418892	393270	485122	339319	418236	370760

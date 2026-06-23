@@ -1,0 +1,468 @@
+Starting job on chaac.lcg.unam.mx
+FeatureCounts
+	Mode: SE
+	Path: ./results/aligned/hisat2_PE
+Date: Thu May 28 04:27:25 PM CST 2026
+Starting job on chaac.lcg.unam.mx
+FeatureCounts
+	Mode: SE
+	Path: ./results/aligned/hisat2_PE
+Date: Thu May 28 04:27:25 PM CST 2026
+Starting job on chaac.lcg.unam.mx
+FeatureCounts
+	Mode: SE
+	Path: ./results/aligned/hisat2_PE
+Date: Thu May 28 04:27:25 PM CST 2026
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+	  v2.0.8
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 10 BAM files                                     ||
+||                                                                            ||
+||                           SRR15024168.fs.bam                               ||
+||                           SRR15024173.fs.bam                               ||
+||                           SRR15024174.fs.bam                               ||
+||                           SRR15024175.fs.bam                               ||
+||                           SRR15024177.fs.bam                               ||
+||                           SRR15024178.fs.bam                               ||
+||                           SRR15024182.fs.bam                               ||
+||                           SRR15024183.fs.bam                               ||
+||                           SRR15024186.fs.bam                               ||
+||                           SRR15024188.fs.bam                               ||
+||                                                                            ||
+||             Output file : counts_per_gene.txt                              ||
+||                 Summary : counts_per_gene.txt.summary                      ||
+||              Paired-end : no                                               ||
+||        Count read pairs : no                                               ||
+||              Annotation : Macaca_mulatta.Mmul_10.115.gtf (GTF)             ||
+||      Dir for temp files : ./results/aligned/hisat2_PE                      ||
+||                                                                            ||
+||                 Threads : 8                                                ||
+||                   Level : meta-feature level                               ||
+||      Multimapping reads : not counted                                      ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+\\============================================================================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file Macaca_mulatta.Mmul_10.115.gtf ...                    ||
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+	  v2.0.8
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 10 BAM files                                     ||
+||                                                                            ||
+||                           SRR15024168.fs.bam                               ||
+||                           SRR15024173.fs.bam                               ||
+||                           SRR15024174.fs.bam                               ||
+||                           SRR15024175.fs.bam                               ||
+||                           SRR15024177.fs.bam                               ||
+||                           SRR15024178.fs.bam                               ||
+||                           SRR15024182.fs.bam                               ||
+||                           SRR15024183.fs.bam                               ||
+||                           SRR15024186.fs.bam                               ||
+||                           SRR15024188.fs.bam                               ||
+||                                                                            ||
+||             Output file : counts_per_gene.txt                              ||
+||                 Summary : counts_per_gene.txt.summary                      ||
+||              Paired-end : no                                               ||
+||        Count read pairs : no                                               ||
+||              Annotation : Macaca_mulatta.Mmul_10.115.gtf (GTF)             ||
+||      Dir for temp files : ./results/aligned/hisat2_PE                      ||
+||                                                                            ||
+||                 Threads : 8                                                ||
+||                   Level : meta-feature level                               ||
+||      Multimapping reads : not counted                                      ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+\\============================================================================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file Macaca_mulatta.Mmul_10.115.gtf ...                    ||
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+	  v2.0.8
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 10 BAM files                                     ||
+||                                                                            ||
+||                           SRR15024168.fs.bam                               ||
+||                           SRR15024173.fs.bam                               ||
+||                           SRR15024174.fs.bam                               ||
+||                           SRR15024175.fs.bam                               ||
+||                           SRR15024177.fs.bam                               ||
+||                           SRR15024178.fs.bam                               ||
+||                           SRR15024182.fs.bam                               ||
+||                           SRR15024183.fs.bam                               ||
+||                           SRR15024186.fs.bam                               ||
+||                           SRR15024188.fs.bam                               ||
+||                                                                            ||
+||             Output file : counts_per_gene.txt                              ||
+||                 Summary : counts_per_gene.txt.summary                      ||
+||              Paired-end : no                                               ||
+||        Count read pairs : no                                               ||
+||              Annotation : Macaca_mulatta.Mmul_10.115.gtf (GTF)             ||
+||      Dir for temp files : ./results/aligned/hisat2_PE                      ||
+||                                                                            ||
+||                 Threads : 8                                                ||
+||                   Level : meta-feature level                               ||
+||      Multimapping reads : not counted                                      ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+\\============================================================================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file Macaca_mulatta.Mmul_10.115.gtf ...                    ||
+||    Features : 605501                                                       ||
+||    Meta-features : 35432                                                   ||
+||    Chromosomes/contigs : 329                                               ||
+||                                                                            ||
+|| Process BAM file SRR15024168.fs.bam...                                     ||
+||    Strand specific : reversely stranded                                    ||
+||    Features : 605501                                                       ||
+||    Features : 605501                                                       ||
+||    Meta-features : 35432                                                   ||
+||    Chromosomes/contigs : 329                                               ||
+||                                                                            ||
+|| Process BAM file SRR15024168.fs.bam...                                     ||
+||    Strand specific : reversely stranded                                    ||
+ERROR: Paired-end reads were detected in single-end read library : ./results/aligned/hisat2_PE/SRR15024168.fs.bam
+ERROR: Paired-end reads were detected in single-end read library : ./results/aligned/hisat2_PE/SRR15024168.fs.bam
+||    Meta-features : 35432                                                   ||
+||    Chromosomes/contigs : 329                                               ||
+||                                                                            ||
+|| Process BAM file SRR15024168.fs.bam...                                     ||
+||    Strand specific : reversely stranded                                    ||
+ERROR: Paired-end reads were detected in single-end read library : ./results/aligned/hisat2_PE/SRR15024168.fs.bam
+Command exited with non-zero status 255
+	Command being timed: "featureCounts -o ./results/aligned/hisat2_PE/counts_per_gene.txt -T 8 -a ./data/references/Macaca_mulatta.Mmul_10.115.gtf --largestOverlap -s 2 ./results/aligned/hisat2_PE/SRR15024168.fs.bam ./results/aligned/hisat2_PE/SRR15024173.fs.bam ./results/aligned/hisat2_PE/SRR15024174.fs.bam ./results/aligned/hisat2_PE/SRR15024175.fs.bam ./results/aligned/hisat2_PE/SRR15024177.fs.bam ./results/aligned/hisat2_PE/SRR15024178.fs.bam ./results/aligned/hisat2_PE/SRR15024182.fs.bam ./results/aligned/hisat2_PE/SRR15024183.fs.bam ./results/aligned/hisat2_PE/SRR15024186.fs.bam ./results/aligned/hisat2_PE/SRR15024188.fs.bam"
+	User time (seconds): 67.19
+	System time (seconds): 1.06
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:08.54
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 195072
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 65090
+	Voluntary context switches: 987
+	Involuntary context switches: 8746
+	Swaps: 0
+	File system inputs: 603880
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 255
+Command exited with non-zero status 255
+	Command being timed: "featureCounts -o ./results/aligned/hisat2_PE/counts_per_gene.txt -T 8 -a ./data/references/Macaca_mulatta.Mmul_10.115.gtf --largestOverlap -s 2 ./results/aligned/hisat2_PE/SRR15024168.fs.bam ./results/aligned/hisat2_PE/SRR15024173.fs.bam ./results/aligned/hisat2_PE/SRR15024174.fs.bam ./results/aligned/hisat2_PE/SRR15024175.fs.bam ./results/aligned/hisat2_PE/SRR15024177.fs.bam ./results/aligned/hisat2_PE/SRR15024178.fs.bam ./results/aligned/hisat2_PE/SRR15024182.fs.bam ./results/aligned/hisat2_PE/SRR15024183.fs.bam ./results/aligned/hisat2_PE/SRR15024186.fs.bam ./results/aligned/hisat2_PE/SRR15024188.fs.bam"
+	User time (seconds): 67.47
+	System time (seconds): 1.09
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:08.36
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 194304
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 65041
+	Voluntary context switches: 1169
+	Involuntary context switches: 10063
+	Swaps: 0
+	File system inputs: 736960
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 255
+Command exited with non-zero status 255
+	Command being timed: "featureCounts -o ./results/aligned/hisat2_PE/counts_per_gene.txt -T 8 -a ./data/references/Macaca_mulatta.Mmul_10.115.gtf --largestOverlap -s 2 ./results/aligned/hisat2_PE/SRR15024168.fs.bam ./results/aligned/hisat2_PE/SRR15024173.fs.bam ./results/aligned/hisat2_PE/SRR15024174.fs.bam ./results/aligned/hisat2_PE/SRR15024175.fs.bam ./results/aligned/hisat2_PE/SRR15024177.fs.bam ./results/aligned/hisat2_PE/SRR15024178.fs.bam ./results/aligned/hisat2_PE/SRR15024182.fs.bam ./results/aligned/hisat2_PE/SRR15024183.fs.bam ./results/aligned/hisat2_PE/SRR15024186.fs.bam ./results/aligned/hisat2_PE/SRR15024188.fs.bam"
+	User time (seconds): 67.45
+	System time (seconds): 1.12
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:08.87
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 192768
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 106533
+	Voluntary context switches: 1302
+	Involuntary context switches: 8374
+	Swaps: 0
+	File system inputs: 854728
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 255
+Starting job on chaac.lcg.unam.mx
+FeatureCounts
+	Mode: SE
+	Path: ./results/aligned/hisat2_PE
+Date: Thu May 28 04:40:54 PM CST 2026
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+	  v2.0.8
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 10 BAM files                                     ||
+||                                                                            ||
+||                           SRR15024168.fs.bam                               ||
+||                           SRR15024173.fs.bam                               ||
+||                           SRR15024174.fs.bam                               ||
+||                           SRR15024175.fs.bam                               ||
+||                           SRR15024177.fs.bam                               ||
+||                           SRR15024178.fs.bam                               ||
+||                           SRR15024182.fs.bam                               ||
+||                           SRR15024183.fs.bam                               ||
+||                           SRR15024186.fs.bam                               ||
+||                           SRR15024188.fs.bam                               ||
+||                                                                            ||
+||             Output file : counts_per_gene.txt                              ||
+||                 Summary : counts_per_gene.txt.summary                      ||
+||              Paired-end : no                                               ||
+||        Count read pairs : no                                               ||
+||              Annotation : Macaca_mulatta.Mmul_10.115.gtf (GTF)             ||
+||      Dir for temp files : ./results/aligned/hisat2_PE                      ||
+||                                                                            ||
+||                 Threads : 8                                                ||
+||                   Level : meta-feature level                               ||
+||      Multimapping reads : not counted                                      ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+\\============================================================================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file Macaca_mulatta.Mmul_10.115.gtf ...                    ||
+Starting job on chaac.lcg.unam.mx
+FeatureCounts
+	Mode: SE
+	Path: ./results/aligned/hisat2_PE
+Date: Thu May 28 04:40:54 PM CST 2026
+Starting job on chaac.lcg.unam.mx
+FeatureCounts
+	Mode: SE
+	Path: ./results/aligned/hisat2_PE
+Date: Thu May 28 04:40:54 PM CST 2026
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+	  v2.0.8
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 10 BAM files                                     ||
+||                                                                            ||
+||                           SRR15024168.fs.bam                               ||
+||                           SRR15024173.fs.bam                               ||
+||                           SRR15024174.fs.bam                               ||
+||                           SRR15024175.fs.bam                               ||
+||                           SRR15024177.fs.bam                               ||
+||                           SRR15024178.fs.bam                               ||
+||                           SRR15024182.fs.bam                               ||
+||                           SRR15024183.fs.bam                               ||
+||                           SRR15024186.fs.bam                               ||
+||                           SRR15024188.fs.bam                               ||
+||                                                                            ||
+||             Output file : counts_per_gene.txt                              ||
+||                 Summary : counts_per_gene.txt.summary                      ||
+||              Paired-end : no                                               ||
+||        Count read pairs : no                                               ||
+||              Annotation : Macaca_mulatta.Mmul_10.115.gtf (GTF)             ||
+||      Dir for temp files : ./results/aligned/hisat2_PE                      ||
+||                                                                            ||
+||                 Threads : 8                                                ||
+||                   Level : meta-feature level                               ||
+||      Multimapping reads : not counted                                      ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+\\============================================================================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file Macaca_mulatta.Mmul_10.115.gtf ...                    ||
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+	  v2.0.8
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 10 BAM files                                     ||
+||                                                                            ||
+||                           SRR15024168.fs.bam                               ||
+||                           SRR15024173.fs.bam                               ||
+||                           SRR15024174.fs.bam                               ||
+||                           SRR15024175.fs.bam                               ||
+||                           SRR15024177.fs.bam                               ||
+||                           SRR15024178.fs.bam                               ||
+||                           SRR15024182.fs.bam                               ||
+||                           SRR15024183.fs.bam                               ||
+||                           SRR15024186.fs.bam                               ||
+||                           SRR15024188.fs.bam                               ||
+||                                                                            ||
+||             Output file : counts_per_gene.txt                              ||
+||                 Summary : counts_per_gene.txt.summary                      ||
+||              Paired-end : no                                               ||
+||        Count read pairs : no                                               ||
+||              Annotation : Macaca_mulatta.Mmul_10.115.gtf (GTF)             ||
+||      Dir for temp files : ./results/aligned/hisat2_PE                      ||
+||                                                                            ||
+||                 Threads : 8                                                ||
+||                   Level : meta-feature level                               ||
+||      Multimapping reads : not counted                                      ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+\\============================================================================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file Macaca_mulatta.Mmul_10.115.gtf ...                    ||
+||    Features : 605501                                                       ||
+||    Meta-features : 35432                                                   ||
+||    Chromosomes/contigs : 329                                               ||
+||                                                                            ||
+|| Process BAM file SRR15024168.fs.bam...                                     ||
+||    Strand specific : reversely stranded                                    ||
+ERROR: Paired-end reads were detected in single-end read library : ./results/aligned/hisat2_PE/SRR15024168.fs.bam
+||    Features : 605501                                                       ||
+||    Meta-features : 35432                                                   ||
+||    Chromosomes/contigs : 329                                               ||
+||                                                                            ||
+|| Process BAM file SRR15024168.fs.bam...                                     ||
+||    Strand specific : reversely stranded                                    ||
+ERROR: Paired-end reads were detected in single-end read library : ./results/aligned/hisat2_PE/SRR15024168.fs.bam
+||    Features : 605501                                                       ||
+||    Meta-features : 35432                                                   ||
+||    Chromosomes/contigs : 329                                               ||
+||                                                                            ||
+|| Process BAM file SRR15024168.fs.bam...                                     ||
+||    Strand specific : reversely stranded                                    ||
+ERROR: Paired-end reads were detected in single-end read library : ./results/aligned/hisat2_PE/SRR15024168.fs.bam
+Command exited with non-zero status 255
+	Command being timed: "featureCounts -o ./results/aligned/hisat2_PE/counts_per_gene.txt -T 8 -a ./data/references/Macaca_mulatta.Mmul_10.115.gtf --largestOverlap -s 2 ./results/aligned/hisat2_PE/SRR15024168.fs.bam ./results/aligned/hisat2_PE/SRR15024173.fs.bam ./results/aligned/hisat2_PE/SRR15024174.fs.bam ./results/aligned/hisat2_PE/SRR15024175.fs.bam ./results/aligned/hisat2_PE/SRR15024177.fs.bam ./results/aligned/hisat2_PE/SRR15024178.fs.bam ./results/aligned/hisat2_PE/SRR15024182.fs.bam ./results/aligned/hisat2_PE/SRR15024183.fs.bam ./results/aligned/hisat2_PE/SRR15024186.fs.bam ./results/aligned/hisat2_PE/SRR15024188.fs.bam"
+	User time (seconds): 69.17
+	System time (seconds): 0.99
+	Percent of CPU this job got: 468%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:14.96
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 198144
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 54811
+	Voluntary context switches: 35
+	Involuntary context switches: 4914
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 255
+Command exited with non-zero status 255
+	Command being timed: "featureCounts -o ./results/aligned/hisat2_PE/counts_per_gene.txt -T 8 -a ./data/references/Macaca_mulatta.Mmul_10.115.gtf --largestOverlap -s 2 ./results/aligned/hisat2_PE/SRR15024168.fs.bam ./results/aligned/hisat2_PE/SRR15024173.fs.bam ./results/aligned/hisat2_PE/SRR15024174.fs.bam ./results/aligned/hisat2_PE/SRR15024175.fs.bam ./results/aligned/hisat2_PE/SRR15024177.fs.bam ./results/aligned/hisat2_PE/SRR15024178.fs.bam ./results/aligned/hisat2_PE/SRR15024182.fs.bam ./results/aligned/hisat2_PE/SRR15024183.fs.bam ./results/aligned/hisat2_PE/SRR15024186.fs.bam ./results/aligned/hisat2_PE/SRR15024188.fs.bam"
+	User time (seconds): 68.90
+	System time (seconds): 1.00
+	Percent of CPU this job got: 466%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:14.99
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 200448
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 63705
+	Voluntary context switches: 46
+	Involuntary context switches: 5529
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 255
+Command exited with non-zero status 255
+	Command being timed: "featureCounts -o ./results/aligned/hisat2_PE/counts_per_gene.txt -T 8 -a ./data/references/Macaca_mulatta.Mmul_10.115.gtf --largestOverlap -s 2 ./results/aligned/hisat2_PE/SRR15024168.fs.bam ./results/aligned/hisat2_PE/SRR15024173.fs.bam ./results/aligned/hisat2_PE/SRR15024174.fs.bam ./results/aligned/hisat2_PE/SRR15024175.fs.bam ./results/aligned/hisat2_PE/SRR15024177.fs.bam ./results/aligned/hisat2_PE/SRR15024178.fs.bam ./results/aligned/hisat2_PE/SRR15024182.fs.bam ./results/aligned/hisat2_PE/SRR15024183.fs.bam ./results/aligned/hisat2_PE/SRR15024186.fs.bam ./results/aligned/hisat2_PE/SRR15024188.fs.bam"
+	User time (seconds): 68.49
+	System time (seconds): 0.99
+	Percent of CPU this job got: 453%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:15.32
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 201984
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 55341
+	Voluntary context switches: 44
+	Involuntary context switches: 5305
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 255

@@ -1,0 +1,12 @@
+Starting SAM to BAM conversion on chaac.lcg.unam.mx
+Processing directory: ./results/aligned/hisat2_PE
+Successfully converted ./results/aligned/hisat2_PE/SRR15024168.sam       to ./results/aligned/hisat2_PE/SRR15024168.bam and removed the SAM file
+Successfully converted ./results/aligned/hisat2_PE/SRR15024173.sam       to ./results/aligned/hisat2_PE/SRR15024173.bam and removed the SAM file
+Successfully converted ./results/aligned/hisat2_PE/SRR15024174.sam       to ./results/aligned/hisat2_PE/SRR15024174.bam and removed the SAM file
+Successfully converted ./results/aligned/hisat2_PE/SRR15024175.sam       to ./results/aligned/hisat2_PE/SRR15024175.bam and removed the SAM file
+Successfully converted ./results/aligned/hisat2_PE/SRR15024177.sam       to ./results/aligned/hisat2_PE/SRR15024177.bam and removed the SAM file
+Successfully converted ./results/aligned/hisat2_PE/SRR15024178.sam       to ./results/aligned/hisat2_PE/SRR15024178.bam and removed the SAM file
+Successfully converted ./results/aligned/hisat2_PE/SRR15024182.sam       to ./results/aligned/hisat2_PE/SRR15024182.bam and removed the SAM file
+Successfully converted ./results/aligned/hisat2_PE/SRR15024183.sam       to ./results/aligned/hisat2_PE/SRR15024183.bam and removed the SAM file
+Successfully converted ./results/aligned/hisat2_PE/SRR15024186.sam       to ./results/aligned/hisat2_PE/SRR15024186.bam and removed the SAM file
+Successfully converted ./results/aligned/hisat2_PE/SRR15024188.sam       to ./results/aligned/hisat2_PE/SRR15024188.bam and removed the SAM file
